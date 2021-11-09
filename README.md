@@ -88,7 +88,7 @@ begin
  if kode='C03' then
  begin
  harga:=750000;
- nama:='Hardisk';
+ nama:='Harddisk';
  end
  else
  if kode='D04' then
